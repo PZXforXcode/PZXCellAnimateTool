@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "PZXCellAnimateTool.h"
+#import "PZXCellAnimateTool/PZXCellAnimateTool.h"
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (assign, nonatomic) int x;
