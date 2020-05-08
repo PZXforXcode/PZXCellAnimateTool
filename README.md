@@ -3,7 +3,7 @@ tableviewCell滑动的动画小封装，方便使用的小工具
 
 # PZXCellAnimateTool tableviewCell滑动的动画小封装，方便使用的小工具 
 ## 用法  
-(```) 
+```
 #import "PZXCellAnimateTool/PZXCellAnimateTool.h"   
 
 //cell滑动动画
@@ -17,5 +17,4 @@ tableviewCell滑动的动画小封装，方便使用的小工具
     [PZXCellAnimateTool reloadAnimationDownSmoothInTableView:tableView cell:cell indexPath:indexPath];
     
 }
-
-(```)
+```
