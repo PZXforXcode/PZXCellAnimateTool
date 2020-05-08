@@ -1,7 +1,6 @@
 # PZXCellAnimateTool
 tableviewCell滑动的动画小封装，方便使用的小工具
 
-# PZXCellAnimateTool tableviewCell滑动的动画小封装，方便使用的小工具 
 ## 用法  
 ```
 #import "PZXCellAnimateTool/PZXCellAnimateTool.h"   
